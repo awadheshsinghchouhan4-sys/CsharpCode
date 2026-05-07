@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\bin\Debug\AdoSqlconn-task2-05-05-2026.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\bin\Debug\AdoSqlconn-task2-05-05-2026.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\bin\Debug\AdoSqlconn-task2-05-05-2026.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\obj\Debug\AdoSqlconn-task2-05-05-2026.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\obj\Debug\AdoSqlconn-task2-05-05-2026.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\obj\Debug\AdoSqlconn-task2-05-05-2026.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\AdoSqlconn-task2-05-05-2026\AdoSqlconn-task2-05-05-2026\obj\Debug\AdoSqlconn-task2-05-05-2026.pdb

@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\bin\Debug\Employee-table-sqlconnetion.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\bin\Debug\Employee-table-sqlconnetion.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\bin\Debug\Employee-table-sqlconnetion.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\obj\Debug\Employee-table-sqlconnetion.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\obj\Debug\Employee-table-sqlconnetion.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\obj\Debug\Employee-table-sqlconnetion.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\Employee-table-sqlconnetion\Employee-table-sqlconnetion\obj\Debug\Employee-table-sqlconnetion.pdb
