@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\bin\Debug\Ado-Addcolumn-task.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\bin\Debug\Ado-Addcolumn-task.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\bin\Debug\Ado-Addcolumn-task.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\obj\Debug\Ado-Addcolumn-task.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\obj\Debug\Ado-Addcolumn-task.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\obj\Debug\Ado-Addcolumn-task.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Addcolumn-task\Ado-Addcolumn-task\obj\Debug\Ado-Addcolumn-task.pdb

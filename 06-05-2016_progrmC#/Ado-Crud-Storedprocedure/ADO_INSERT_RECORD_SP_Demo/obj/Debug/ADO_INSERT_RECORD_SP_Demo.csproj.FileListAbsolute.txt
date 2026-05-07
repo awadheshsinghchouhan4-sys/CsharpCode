@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\bin\Debug\ADO_INSERT_RECORD_SP_Demo.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\bin\Debug\ADO_INSERT_RECORD_SP_Demo.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\bin\Debug\ADO_INSERT_RECORD_SP_Demo.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\obj\Debug\ADO_INSERT_RECORD_SP_Demo.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\obj\Debug\ADO_INSERT_RECORD_SP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\obj\Debug\ADO_INSERT_RECORD_SP_Demo.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-Crud-Storedprocedure\ADO_INSERT_RECORD_SP_Demo\obj\Debug\ADO_INSERT_RECORD_SP_Demo.pdb

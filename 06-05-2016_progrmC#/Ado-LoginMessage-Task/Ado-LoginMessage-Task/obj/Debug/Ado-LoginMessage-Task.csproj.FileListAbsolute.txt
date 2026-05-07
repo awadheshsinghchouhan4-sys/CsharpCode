@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\bin\Debug\Ado-LoginMessage-Task.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\bin\Debug\Ado-LoginMessage-Task.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\bin\Debug\Ado-LoginMessage-Task.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\obj\Debug\Ado-LoginMessage-Task.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\obj\Debug\Ado-LoginMessage-Task.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\obj\Debug\Ado-LoginMessage-Task.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\Ado-LoginMessage-Task\Ado-LoginMessage-Task\obj\Debug\Ado-LoginMessage-Task.pdb

@@ -1,0 +1,22 @@
+﻿-- write the following code in SSMS and run it before executing the app
+CREATE DATABASE AcuStudentDB
+
+use AcuStudentDB
+
+sp_tables
+
+select * from student
+
+--creating a stored procedure to insert a record
+create procedure sp_AddStudent @Name varchar(30), @Course varchar(30)
+as
+begin
+	Begin Transaction 
+	   insert into student (name,course)values(@Name,@Course)
+	Commit transaction 
+end
+
+--executing stored procedure
+execute sp_AddStudent 'Prattush','python'
+
+select * from student

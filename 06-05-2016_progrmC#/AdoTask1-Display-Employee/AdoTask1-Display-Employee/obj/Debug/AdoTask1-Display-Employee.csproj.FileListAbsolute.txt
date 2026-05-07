@@ -1,0 +1,7 @@
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\bin\Debug\AdoTask1-Display-Employee.exe.config
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\bin\Debug\AdoTask1-Display-Employee.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\bin\Debug\AdoTask1-Display-Employee.pdb
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\obj\Debug\AdoTask1-Display-Employee.csproj.AssemblyReference.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\obj\Debug\AdoTask1-Display-Employee.csproj.CoreCompileInputs.cache
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\obj\Debug\AdoTask1-Display-Employee.exe
+C:\Users\awadhesh.chouhan\OneDrive - Acuvate Software Private Limited\practice\Ado.net\06-05-2026\AdoTask1-Display-Employee\AdoTask1-Display-Employee\obj\Debug\AdoTask1-Display-Employee.pdb
