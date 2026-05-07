@@ -1,0 +1,6 @@
+@ADO_web_Api_Student_creation_HostAddress = http://localhost:5022
+
+GET {{ADO_web_Api_Student_creation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
